@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CD-ROM",
+  "universe": "3DO · The CD-ROM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The CD-ROM:3DO:5baf61⟧",
+  "carbon": "the-3do-cd.carbon.tiff (TIFF)",
+  "silicon": "the-3do-cd.silicon.png (PNG)",
+  "seal_sha256": "3969907f640e7f1aaf1f08351e8bf2b38354f2c9dc61916d117f835d5dc7db5e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

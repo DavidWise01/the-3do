@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The ARM60",
+  "universe": "3DO · The ARM60 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The ARM60:3DO:be96ef⟧",
+  "carbon": "the-3do-arm.carbon.tiff (TIFF)",
+  "silicon": "the-3do-arm.silicon.png (PNG)",
+  "seal_sha256": "1f4382d624da97271a7e0c5d96e716e42c7362e667a3700d04ae126773336ea2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

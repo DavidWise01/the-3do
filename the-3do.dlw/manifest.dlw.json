@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "3DO INTERACTIVE MULTIPLAYER",
+  "universe": "3DO · 3DO INTERACTIVE MULTIPLAYER (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦3DO INTERACTIVE MULTIPLAYER:3DO:dc969d⟧",
+  "carbon": "the-3do.carbon.tiff (TIFF)",
+  "silicon": "the-3do.silicon.png (PNG)",
+  "seal_sha256": "51c1f18f3c9b31aff81a902a50785e785d06e2c3049c3da172b862473b412c3f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

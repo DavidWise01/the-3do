@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-3do-arm",
+    "name": "The ARM60",
+    "epithet": "a RISC brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ARM60:3DO:be96ef⟧"
+  },
+  {
+    "slug": "the-3do-cel",
+    "name": "The Cel Engine",
+    "epithet": "twin video helpers · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Cel Engine:3DO:369186⟧"
+  },
+  {
+    "slug": "the-3do-ram",
+    "name": "The RAM",
+    "epithet": "the working memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:3DO:9d5f5d⟧"
+  },
+  {
+    "slug": "the-3do-cd",
+    "name": "The CD-ROM",
+    "epithet": "the disc · natural",
+    "emergence": "natural",
+    "moniker": "⟦The CD-ROM:3DO:5baf61⟧"
+  },
+  {
+    "slug": "the-3do-model",
+    "name": "The Licensing Model",
+    "epithet": "a standard, not a box · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Licensing Model:3DO:704494⟧"
+  },
+  {
+    "slug": "the-3do-price",
+    "name": "The $699 Price",
+    "epithet": "the number that sank it · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The $699 Price:3DO:dc59ed⟧"
+  }
+]

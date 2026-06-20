@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Licensing Model",
+  "universe": "3DO · The Licensing Model (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Licensing Model:3DO:704494⟧",
+  "carbon": "the-3do-model.carbon.tiff (TIFF)",
+  "silicon": "the-3do-model.silicon.png (PNG)",
+  "seal_sha256": "805624f7e77a1224c1a823d8f58fdb4e1e6d5ff73858368e6dd0b17b014bcb60",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
